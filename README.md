@@ -1,39 +1,44 @@
-<h1 align="center">Olá 👋 Eu sou Felipe Sobral</h1>
+## Oiii 👋 eu sou o Felipe Sobral!
 
-<h3 align="center">Desenvolvedor Full Stack</h3>
-
-<p align="center">
-Focado no desenvolvimento web 💻 <br>
-Aprendendo JavaScript e Python 🚀 <br>
-Cursando Análise e Desenvolvimento de Sistemas 🎓
-</p>
+💻 Desenvolvedor Full Stack  
+🚀 Focado no desenvolvimento web  
+📚 Aprendendo JavaScript e Python  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
 
 ---
 
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200px">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220px">
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌎 Minhas Redes
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-------
-
-⭐ Sempre evoluindo e buscando me tornar um desenvolvedor cada vez melhor!
+<div> 
+  <a href="https://instagram.com/SEUUSER" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://discord.com/users/SEUID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://linkedin.com/in/SEULINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <blockquote>“Somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito.”</blockquote>
+</div>
