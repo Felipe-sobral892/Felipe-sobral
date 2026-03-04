@@ -20,7 +20,7 @@ Tecnologias:
 > — Aristóteles
 
 ---
-
+<img align="right" alt="Eren Yeager" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa253MnUwbXhyZ3ZxeGQ1bWh5YWlodnVncmJ1aXJ0encyOHowaXR1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tliXLSkzfq2C4/giphy.gif">
 ##  Minhas Redes:
 
 <div> 
