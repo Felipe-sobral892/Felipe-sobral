@@ -21,7 +21,7 @@ Tecnologias:
 
 ---
 <img align="right" alt="Hiei GIF" height="130" src="https://i.pinimg.com/originals/01/50/be/0150beb32ce31d8971c6956c679f3dba.gif">
-##  Minhas Redes:
+Minhas Redes:
 
 <div> 
   <a href="https://www.instagram.com/felipesobral.7/" target="_blank">
