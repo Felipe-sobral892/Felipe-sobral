@@ -16,29 +16,25 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220px">
-</div>
+> “Somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito.”  
+> — Aristóteles
 
 ---
 
 ## 🌎 Minhas Redes
 
 <div> 
-  <a href="https://instagram.com/SEUUSER" target="_blank">
+  <a href="https://www.instagram.com/felipesobral.7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-  <a href="https://discord.com/users/SEUID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://linkedin.com/in/SEULINK" target="_blank">
+  <a href="https://www.linkedin.com/in/felipesobraldev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <blockquote>“Somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito.”</blockquote>
+  
+  <img src="https://img.shields.io/badge/Discord-lipe_sobral10-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
