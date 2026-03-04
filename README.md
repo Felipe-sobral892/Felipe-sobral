@@ -20,7 +20,7 @@ Tecnologias:
 > — Aristóteles
 
 ---
-<img align="right" alt="Hiei GIF" height="130" src="https://i.pinimg.com/originals/01/50/be/0150beb32ce31d8971c6956c679f3dba.gif">
+<img align="right" alt="Hiei GIF" height="130" src="https://i.pinimg.com/originals/f7/12/48/f71248a4fe83de479fec12db7fb0f6c7.gif">
 Minhas Redes:
 
 <div> 
