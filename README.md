@@ -1,7 +1,8 @@
 ## Olá eu sou o Felipe Sobral!
 
-💻 Desenvolvedor Full Stack  
+💻 Desenvolvedor Fullstack em formação   
 🚀 Focado no desenvolvimento web  
+💼Forte base em HTML e CSS aplicados ao desenvolvimento web moderno   
 📚 Aprendendo JavaScript e Python  
 🎓 Cursando Análise e Desenvolvimento de Sistemas  
 
@@ -20,7 +21,7 @@ Tecnologias:
 > — Aristóteles
 
 ---
-<img align="right" alt="Hiei GIF" height="130" src="https://i.pinimg.com/originals/f7/12/48/f71248a4fe83de479fec12db7fb0f6c7.gif">
+<img align="right" alt="Hiei GIF" height="130" src="https://i.pinimg.com/originals/95/86/56/9586566d5ea6f70537e61ac60c51269e.gif">
 Minhas Redes:
 
 <div> 
@@ -37,6 +38,6 @@ Minhas Redes:
   </a> 
   
   <a href="https://discord.com/users/1219024267736387751" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-lipe_sobral10-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 </div>
